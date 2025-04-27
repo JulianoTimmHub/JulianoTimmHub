@@ -7,19 +7,19 @@
 ## 👾 Some Of My Skills 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div>
-    <h4 align="left">Frontend</h4>
+    <h3 align="left">Frontend</h3>
     <a href="https://skillicons.dev">
       <img align="center" src="https://skillicons.dev/icons?i=javascript,react,next,tailwind,bootstrap,css,html,jquery&theme=light" />
     </a>
   </div>
   <div>
-    <h4 align="left">Backend</h4>
+    <h3 align="left">Backend</h3>
     <a href="https://skillicons.dev">
       <img align="center" src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nest,prisma,postgresql,mysql,mongodb&theme=light" />
     </a>
   </div>
   <div>
-    <h4 align="left">DevOps</h4>
+    <h3 align="left">DevOps</h3>
     <a href="https://skillicons.dev">
       <img align="center" src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vercel&theme=light" />
     </a>
