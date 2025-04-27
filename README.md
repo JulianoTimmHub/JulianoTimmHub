@@ -1,6 +1,6 @@
 # **<div align="center">Hi, I'm Juliano Henrique Timm 👩‍💻 </div>**  
   
-### <div align="center">Full stack software developer since 2022, my main programming language is Java. <br>learn more about me :)</div>  
+### <div align="center">Full stack software developer since 2022, my main programming language is Java. <br>Learn more about me :)</div>  
 
 <br/> 
 
@@ -30,7 +30,7 @@
 <br/> 
 
 ## 📊 My Stats 
-<div align="center" style="flex">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotimmhub&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Juliano github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotimmhub&layout=compact&theme=merko&hide_border=true" />
 </div>
