@@ -1,7 +1,7 @@
 ## ⭐ About
 Hello, I'm Juliano Henrique Timm, a full stack software developer, my main programming language is Java, learn more about me :)
 
-## 👾 Some of my skills 
+## 👾 Some Of My Skills 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
   <img src="https://img.shields.io/badge/Java-414141?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" target="_blank" />
   <img src="https://img.shields.io/badge/-Spring Boot-414141?style=for-the-badge&logo=Spring&logoColor=white" height="30" alt="SpringBoot" target="_blank" />
@@ -31,7 +31,7 @@ Hello, I'm Juliano Henrique Timm, a full stack software developer, my main progr
   <img src="https://img.shields.io/badge/-Prisma-414141?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="Prisma" target="_blank" />
 </div>
 
-## 📊 my stats 
+## 📊 My Stats 
 | <a href="https://github.com/JulianoTimmHub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotimmhub&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Juliano github stats" /></a> | <a href="https://github.com/JulianoTimmHub//github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotimmhub&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
