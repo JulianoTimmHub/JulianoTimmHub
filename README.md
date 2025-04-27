@@ -2,10 +2,54 @@
   
 ### <div align="center">Full stack software developer since 2022, my main programming language is Java. <br>learn more about me :)</div>  
 
+<br/> 
+
 ## 👾 Some Of My Skills 
-| <p align="left">Frontend</p> [![My Skills](https://skillicons.dev/icons?i=javascript,react,next,tailwind,bootstrap,css,html,jquery&theme=light)](https://skillicons.dev) | <p align="left">Backend</p> [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nest,prisma,postgresql,mysql,mongodb&theme=light)](https://skillicons.dev) | <p align="left">DevOps</p> [![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vercel&theme=light)](https://skillicons.dev) |
-| ------------- | ------------- | ------------- |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div>
+    <h4 align="left">Frontend</h4>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=javascript,react,next,tailwind,bootstrap,css,html,jquery&theme=light" />
+    </a>
+  </div>
+  <div>
+    <h4 align="left">Backend</h4>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nest,prisma,postgresql,mysql,mongodb&theme=light" />
+    </a>
+  </div>
+  <div>
+    <h4 align="left">DevOps</h4>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vercel&theme=light" />
+    </a>
+  </div>
+</div>
+
+<br/> 
+<br/> 
 
 ## 📊 My Stats 
-| <a href="https://github.com/JulianoTimmHub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotimmhub&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Juliano github stats" /></a> | <a href="https://github.com/JulianoTimmHub//github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotimmhub&layout=compact&theme=merko&hide_border=true" /></a> | <p align="center">💻 Best Repository</p><a href="https://github.com/JulianoTimmHub/portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianotimmhub&repo=portfolio&theme=merko&hide_border=true" /></a> |
-| ------------- | ------------- | ------------- |
+<div align="center" style="flex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianotimmhub&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Juliano github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianotimmhub&layout=compact&theme=merko&hide_border=true" />
+</div>
+
+<br/> 
+
+## 💻 Best Repositories
+<div align="left" style="flex">
+  <a href="https://github.com/JulianoTimmHub/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianotimmhub&repo=portfolio&theme=merko&hide_border=true" />
+  </a>
+</div>
+
+## 📱 Contacts
+<div align="left">
+  <a href="mailto:julianotimmtimm@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/gmail-414141?&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail />
+  </a>
+  <a href="https://www.linkedin.com/in/juliano-henrique-timm/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-414141?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin />
+  </a>
+</div>  
